@@ -1,0 +1,8 @@
+.DS_Store
+.settings
+*.apk
+*.o
+bin
+gen
+local.properties
+libs
